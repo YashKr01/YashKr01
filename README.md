@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :mortar_board: Pursuuing B.E/B.Tech (Computer Science) 
+- :mortar_board: Pursuing B.E/B.Tech (Computer Science) 
 - :iphone: Android Developer & UI/UX Designer 
 - :round_pushpin: I’m currently working on Google Maps SDK for Android 
 - :raising_hand: Active participant in Competitive Programming Contests
