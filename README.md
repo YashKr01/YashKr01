@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :round_pushpin: I’m currently working on Google Maps SDK for Android
+-  I’m currently working on BLOOM which is an E-Commerce application at my current internship
 - :mortar_board: Pursuing B.E/B.Tech (Computer Science) 
 - :iphone: Android Developer & UI/UX Designer 
 - :raising_hand: Active participant in Competitive Programming Contests
