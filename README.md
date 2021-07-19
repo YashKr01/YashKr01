@@ -1,6 +1,5 @@
 ### Hi there 👋
 
--  I’m currently working on BLOOM which is an E-Commerce application at my current internship
 - :mortar_board: Pursuing B.E/B.Tech (Computer Science) 
 - :iphone: Android Developer & UI/UX Designer 
 - :raising_hand: Active participant in Competitive Programming Contests
