@@ -1,3 +1,9 @@
+<h1 align="center"> <img src="https://github.com/YashKr01/YashKr01/blob/main/hello.gif" alt="hello-gif"> <br >My name is<a href="https://www.linkedin.com/in/yash-kumar-2099/"> Yash Kumar</a>👨‍💻</h1>
+
+## Reach out on
+[![Linkedin Badge](https://img.shields.io/badge/yashkumar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-kumar-2099/)
+[![Gmail Badge](https://img.shields.io/badge/yashkumar201301@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:yashkumar201301@gmail.com)
+
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 - I am currently pursuing B.E/B.TECH from Maharaja Surajmal Institue of Technology with Computer Science Specialisation
 - Tech enthusiast and Android Developer
@@ -6,14 +12,7 @@
 - I have open source contributions on [Oppia](https://github.com/oppia/oppia-android)
 - Looking forward to gain more experience in Android Development
 
-
-## Reach out on
-[![Linkedin Badge](https://img.shields.io/badge/yashkumar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-kumar-2099/)
-[![Gmail Badge](https://img.shields.io/badge/yashkumar201301@gmail.com-30302f?style=flat&logo=Gmail&logoColor=white)](mailto:yashkumar201301@gmail.com)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKr01&layout=compact)](https://github.com/YashKr01/github-readme-stats)
-
 
 ## ⚙ Tech Stack
 <p align="center">
