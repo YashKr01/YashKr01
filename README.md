@@ -8,6 +8,7 @@
 
 ### HI THERE <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 - I am currently pursuing B.E/B.TECH from Maharaja Surajmal Institue of Technology with Computer Science Specialisation
+- Strong believer in practical implementation rather than only grasping theory
 - Tech enthusiast and Android Developer
 - Ui/UX Designer
 - I have sound knowledge of Data Structures & Algorithms
