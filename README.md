@@ -14,8 +14,6 @@
 - I have open source contributions on [Oppia](https://github.com/oppia/oppia-android)
 - Looking forward to gain more experience in Android Development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKr01&layout=compact)](https://github.com/YashKr01/github-readme-stats)
-
 ## ⚙ Tech Stack
 <p align="center">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="Android" width="40" height="40"/> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/java.svg" alt="Java" width="40" height="40"/> 
