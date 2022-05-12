@@ -1,27 +1,37 @@
-<h1 align="center"> <img src="https://github.com/YashKr01/YashKr01/blob/main/hello.gif" alt="hello-gif"> 
-  <br >My name is<a href="https://www.linkedin.com/in/yash-kumar-2099/"> Yash Kumar</a>
+### Hi there 👋, My Name is YASH KUMAR
+![PROFILE VIEWS](https://gpvc.arturio.dev/YashKr01) 
 
-## **About**
+## **ABOUT ME**
+
+- ***#SelfTaught*** Android Developer
+- Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
 - Computer Science Engineering Student(Final Year) 
-- Android App Developer
-- Ui/UX Designer
-- Have Sound knowledge of Data Structures & Algorithms
-- Open source contributions on [Oppia](https://github.com/oppia/oppia-android)
+- UI/UX Designer
 - Currently learning Jetpack Compose & Ktor
+- Email - yashkr2099@gmail.com
   
-## **Contact on**
-<a href="https://www.linkedin.com/in/yash-kumar-2099/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="yashkr2099@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+### **⚒️ LANGUAGES & TOOLS**  
 
-## **Tech Stack**
-  
-<img align="left" alt="Kotlin" width="40px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
-<img align="left" alt="Java" width="40px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-<img align="left" alt="Git" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="Android Studio" width="40px" src="https://user-images.githubusercontent.com/65572088/115593549-3f235e80-a2f2-11eb-9c70-72cf1e10cac6.png" />
-<img align="left" alt="Firebase" width="40px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img align="left" alt="Jetpack Compose" width="40px" src="https://user-images.githubusercontent.com/65572088/115596063-4c8e1800-a2f5-11eb-87b9-e11289c852f5.png" />
-<img align="left" alt="Ktor" width="100px" src="https://user-images.githubusercontent.com/65572088/115592966-878e4c80-a2f1-11eb-91a0-1d0cd7a77540.png" />
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Adobe xD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+</br>
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![RealmDB](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
+## 🔗 **PROFILES**
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kumar-2099/)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/yash_kr01/)
+[![CodeChef](	https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/yash_plus44)
+
+### **GITHUB STATS**
+<div>
+ <img height="150" src="https://github-readme-stats.vercel.app/api?username=YashKr01&show_icons=true&show_owner=false&hide=contribs,issues&theme=tokyonight&count_private=true&include_all_commits=true" />
+</div>
 
