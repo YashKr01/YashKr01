@@ -1,7 +1,7 @@
 ### Hi there 👋, My Name is YASH KUMAR
 ![PROFILE VIEWS](https://gpvc.arturio.dev/YashKr01) 
 
-## **ABOUT ME**
+## ⚡**ABOUT ME**⚡
 
 - ***#SelfTaught*** Android Developer
 - Mostly working on ❤️Android ❤️Kotlin 🔥Firebase!
@@ -10,7 +10,7 @@
 - Currently learning Jetpack Compose & Ktor
 - Email - yashkr2099@gmail.com
   
-### **⚒️ KEY SKILLS**  
+### **✍️ KEY SKILLS**  
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -30,7 +30,7 @@
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 
-## 🔗 **PROFILES**
+##  🌐**PROFILES**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kumar-2099/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/yash_kr01/)
@@ -39,7 +39,7 @@
 
 
 
-### **GITHUB STATS**
+### 📊**GITHUB STATS**
 <div>
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YashKr01&show_icons=true&show_owner=false&hide=contribs,issues&theme=tokyonight&count_private=true&include_all_commits=true" />
 </div>
