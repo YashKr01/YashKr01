@@ -1,4 +1,4 @@
-### Hi there 👋, My Name is YASH KUMAR
+# Hi there 👋, My Name is YASH KUMAR
 ![PROFILE VIEWS](https://gpvc.arturio.dev/YashKr01) 
 
 ## ⚡**ABOUT ME**⚡
