@@ -27,7 +27,7 @@
 ![POSTMAN](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 
-##  🌐**PROFILES**
+##  🌐 **PROFILES**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kumar-2099/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/yash_kr01/)
@@ -35,7 +35,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__yash_kr_?igshid=YmMyMTA2M2Y=)
 
 
-### 📊**GITHUB STATS**
+### 📊 **GITHUB STATS**
 <div>
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YashKr01&show_icons=true&show_owner=false&hide=contribs,issues&theme=tokyonight&count_private=true&include_all_commits=true" />
 </div>
