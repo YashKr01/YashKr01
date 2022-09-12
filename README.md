@@ -40,3 +40,6 @@
  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YashKr01&show_icons=true&show_owner=false&hide=contribs,issues&theme=tokyonight&count_private=true&include_all_commits=true" />
 </div>
 
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YashKr01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
