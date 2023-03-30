@@ -1,4 +1,4 @@
-# 私の名前は YASH KUMAR
+# こんにちは、私の名前は YASH KUMAR
 ![PROFILE VIEWS](https://gpvc.arturio.dev/YashKr01) 
 
 ## ⚡**ABOUT ME**⚡
