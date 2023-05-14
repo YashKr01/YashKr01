@@ -5,8 +5,8 @@
 
 - Software Enginner @Park+
 - Android & Flutter Developer
-- Computer Science Undergrad
-- UI/UX Designer
+- Computer Science Graduate
+- Trying my hands on React.js
 - Email - yashkr2099@gmail.com
   
 ### **✍️ KEY SKILLS**  
@@ -23,7 +23,13 @@
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-
+</br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)
 
 ##  🌐 **PROFILES**
 
