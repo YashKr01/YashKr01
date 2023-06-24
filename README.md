@@ -1,5 +1,5 @@
 # こんにちは、私の名前は YASH KUMAR
-![PROFILE VIEWS](https://gpvc.arturio.dev/YashKr01) 
+![PROFILE VIEWS](https://komarev.com/ghpvc/?username=YashKr01&color=42d1f5) 
 
 ## ⚡**ABOUT ME**⚡
 
