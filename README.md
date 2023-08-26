@@ -3,7 +3,7 @@
 
 ## ⚡**ABOUT ME**⚡
 
-- Software Enginner @Park+
+- Software Enginner @Blinkit/Zomato
 - Android & Flutter Developer
 - Computer Science Graduate
 - Trying my hands on React.js
